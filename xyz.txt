@@ -1,1 +1,2 @@
 Fonctionnalite XYZ
+Suite de la fonctionnalite
